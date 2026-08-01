@@ -3,7 +3,7 @@ json
   "aktif": true,
   "versiyon": "1.1",
   "mesaj": "Mükerrer öğretmen kaydı engellendi, otomatik dağıtım ve raporlama hataları düzeltildi.",
-  "indirme_url": "BURAYA_ADIM_5TE_ALACAGINIZ_LINKI_YAPISTIRACAKSINIZ",
+  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/v1.1/PansiyonNobetV5_v1.1.rar",
   "sha256": "BURAYA_ADIM_6DA_HESAPLAYACAGINIZ_HASH_DEGERINI_YAZACAKSINIZ",
   "zorunlu_mu": false
 }
