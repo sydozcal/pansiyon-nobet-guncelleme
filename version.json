@@ -1,7 +1,7 @@
 {
   "aktif": true,
   "versiyon": "1.2",
-  "mesaj": "Mükerrer öğretmen kaydı engellendi, otomatik dağıtım ve raporlama hataları düzeltildi.",
+  "mesaj": "Öğretmen isimlerinin üst üste gelme sorunu düzeltildi.",
   "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/v1.1/PansiyonNobetV5_v1.1.rar",
   "sha256": "8aa0f5e10a06dd8416843ed91ffe581fd8896c6e70a67e5d4024fc8afa50d726",
   "zorunlu_mu": false
