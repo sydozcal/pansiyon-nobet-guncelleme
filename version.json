@@ -1,8 +1,8 @@
 {
   "aktif": true,
-  "versiyon": "1.2",
-  "mesaj": "DENEME 22.18.",
-  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/v1.2/PansiyonNobetV5_v1.2.rar",
-  "sha256": "4CB18560AB063F2FA22AC247E01873CFAFFDB9705965BC095132231B94C0F9C6",
+  "versiyon": "1.6",
+  "mesaj": "Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
+  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/V1.6/PansiyonNobetV5_v1.6_Final.zip",
+  "sha256": "55B9F20E67B6451B6AC1DBCD67BD998028ACD129899C538B220E250F8EC2C752",
   "zorunlu_mu": false
 }
