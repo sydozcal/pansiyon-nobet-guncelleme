@@ -1,8 +1,8 @@
 {
   "aktif": true,
   "versiyon": "1.8",
-  "mesaj": "Yeni Özellikler: Karma nöbet dağıtımında kadın/erkek sayısını otomatik soran yeni pencere eklendi ve takvim hücre boyutları esnek hale getirildi. Hata Düzeltmeleri: MEB internetinde güncelleme yaparken karşılaşılan SSL/Sertifika Bağlantı Hatası kalıcı olarak çözüldü.",
-  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/V1.8/PansiyonNobetV5_v1.8.zip",
-  "sha256": "3036FAAA590DBE116EEE9A49C62B75222CEB18EA1BCB39AE9BDF80809F8B2ED0",
+  "mesaj": "Yeni Özellikler: Karma nöbet dağıtımında kadın/erkek sayısını otomatik soran yeni pencere eklendi ve takvim hücre boyutları esnek hale getirildi. Hata Düzeltmeleri: MEB internetinde güncelleme yaparken karşılaşılan Bağlantı Hatası çözüldü ve sonsuz döngü sorunu giderildi.",
+  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/V1.8/PansiyonNobet_v1.8.zip",
+  "sha256": "AB8DF272BF8A6CF7A5E23FE72601F9F3E5D1E62FA74A88B0DF3B7F1A42CC7BE5",
   "zorunlu_mu": false
 }
