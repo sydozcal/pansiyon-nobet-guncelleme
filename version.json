@@ -1,8 +1,8 @@
 {
   "aktif": true,
-  "versiyon": "1.8",
-  "mesaj": "Yeni Özellikler: Karma nöbet dağıtımında kadın/erkek sayısını otomatik soran yeni pencere eklendi ve takvim hücre boyutları esnek hale getirildi. Hata Düzeltmeleri: MEB internetinde güncelleme yaparken karşılaşılan Bağlantı Hatası çözüldü ve sonsuz döngü sorunu giderildi.",
-  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/V1.8/PansiyonNobet_v1.8.zip",
-  "sha256": "AB8DF272BF8A6CF7A5E23FE72601F9F3E5D1E62FA74A88B0DF3B7F1A42CC7BE5",
+  "versiyon": "1.9_TEST",
+  "mesaj": "Tebrikler! Eger bu mesaji goruyorsaniz MEB interneti engeli, sonsuz dongu sorunu ve guncelleme alt yapisi %100 asilmis demektir!",
+  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/v1.9/PansiyonNobet_v1.9_TEST.zip",
+  "sha256": "2FC9685BA6938CA5677CA9FEA42FDF5110BCB14CC446227F2CC5AFFACCABE5D9",
   "zorunlu_mu": false
 }
