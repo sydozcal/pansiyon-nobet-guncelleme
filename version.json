@@ -2,7 +2,7 @@
   "aktif": true,
   "versiyon": "1.9",
   "mesaj": "v1.9 Güncellemeler:\n\n🎯 Algoritma:\n• Cinsiyet filtresi (Erkek/Kız/Karma pansiyon desteği)\n• Adil hafta sonu dağılımı\n• Esnetme ile boş gün doldurma + detay raporu\n• Dinamik günlük kontenjan (her gün için ayrı nöbetçi sayısı)\n\n🎨 Arayüz:\n• Görev türü renklendirme (Öğretmen/İdareci/Dış Kurum)\n• Yardım sistemi (? butonları)\n• Tam ekran açılış\n• Tooltip düzeltmesi\n\n📊 Veri & Raporlar:\n• Havuzu temizle butonu\n• Yıllık rapor detaylandırma (Hafta İçi/Sonu, NB/B sütunları)",
-  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/v1.9/PansiyonNobet_v1.9_11_08_2026_0856.zip",
-  "sha256": "71D4247D737568EECEEB5DD2A285454A3B74FB4EDABC55B006D0DD566F5DA001",
+  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/v1.9/PansiyonNobet_v1.9_11_08_2026_1103.zip",
+  "sha256": "F52FF756B79ADDBD79F0A32F30F69AC438CE7266C2EC4481B1CE1827EBA00639",
   "zorunlu_mu": false
 }
