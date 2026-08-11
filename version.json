@@ -1,8 +1,8 @@
 {
   "aktif": true,
-  "versiyon": "1.8",
-  "mesaj": "Yeni Özellikler: Karma nöbet dağıtımında kadın/erkek sayısını otomatik soran yeni pencere eklendi ve takvim hücre boyutları esnek hale getirildi. Hata Düzeltmeleri: MEB internetinde güncelleme yaparken karşılaşılan Bağlantı Hatası çözüldü ve sonsuz döngü sorunu giderildi.",
-  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/V1.8/PansiyonNobet_v1.8.zip",
-  "sha256": "AB8DF272BF8A6CF7A5E23FE72601F9F3E5D1E62FA74A88B0DF3B7F1A42CC7BE5",
+  "versiyon": "1.9",
+  "mesaj": "v1.9 Güncellemeler:\n\n🎯 Algoritma:\n• Cinsiyet filtresi (Erkek/Kız/Karma pansiyon desteği)\n• Adil hafta sonu dağılımı\n• Esnetme ile boş gün doldurma + detay raporu\n• Dinamik günlük kontenjan (her gün için ayrı nöbetçi sayısı)\n\n🎨 Arayüz:\n• Görev türü renklendirme (Öğretmen/İdareci/Dış Kurum)\n• Yardım sistemi (? butonları)\n• Tam ekran açılış\n• Tooltip düzeltmesi\n\n📊 Veri & Raporlar:\n• Havuzu temizle butonu\n• Yıllık rapor detaylandırma (Hafta İçi/Sonu, NB/B sütunları)",
+  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/v1.9/PansiyonNobet_v1.9_11_08_2026_0856.zip",
+  "sha256": "71D4247D737568EECEEB5DD2A285454A3B74FB4EDABC55B006D0DD566F5DA001",
   "zorunlu_mu": false
 }
