@@ -1,8 +1,8 @@
 {
   "aktif": true,
-  "versiyon": "2.0",
-  "mesaj": "v2.0 Dev Güncelleme:\n\n✨ Yeni Özellikler:\n• Excel çıktı desteği (Tüm raporlar için)\n• Birlikte Nöbet (Öğretmen eşleştirme) özelliği\n• Dönem Görev Listesi (Ay aralığı seçimi)\n• Kız/Erkek ayrı renklendirme ve takvimde vurgulama\n\n🎯 Algoritma & Düzeltmeler:\n• Karma pansiyon cinsiyet kotası kesin olarak düzeltildi\n• Art arda nöbet ataması engellendi\n• İdareciler otomatik dağıtımdan çıkarıldı (İsteğe bağlı eklenebilir)\n• Adalet sağlandı (Haftalık sınır/aylık sınır kısıtlamaları esnetildi)",
-  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/V2.0/PansiyonNobet_v2.0_Guncelleme_Paketi.zip",
-  "sha256": "7C703605D940E879664189A0D4DE93A6CAE39D2496598A6FF1C5732C2C660338",
+  "versiyon": "2.1",
+  "mesaj": "İdareci ve dış kurum görevlileri için ayrı ayrı otomatik dağıtım seçeneği, dış kurum öğretmenleri aynı güne gelmesin kısıtı, takvimde sağ tıkla Öğretmen Değiştir, karma pansiyonda kadın/erkek ayraç çizgisi, hafta içi/sonu denge iyileştirmesi ve güncelleme sisteminde iyileştirmeler.",
+  "indirme_url": "https://github.com/sydozcal/pansiyon-nobet-guncelleme/releases/download/v2.1/PansiyonNobet_v2.1_Guncelleme.zip",
+  "sha256": "b5ea355f8448da1d2fa2aa937cd0710ca6b13d82a45da31a84ddad40d2390884",
   "zorunlu_mu": false
 }
